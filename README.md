@@ -1,1 +1,12 @@
-# ACM-SIG-AI-Recruitment
+ ACM-SIG-AI-Recruitment Submission
+Name: Sasapu Kusuma
+Roll No:AM.SC.U4AIE25146
+Branch:AIE-B
+
+Overview
+This repository contains my solutions for the SIG AI recruitment tasks.
+
+Tasks Completed
+Task 1: Data Preprocessing & Leakage Detection
+Task 2: Exploratory Data Analysis
+Task 4: KNN & Imbalanced Data
